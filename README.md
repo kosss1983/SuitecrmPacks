@@ -1,0 +1,2 @@
+# SuitecrmPacks
+suite install packs
